@@ -1,0 +1,107 @@
+/* BS4 */
+h2 {
+    font-size: 6rem !important;
+}
+h3 {
+    font-size: 4.5rem !important;
+}
+h4 {
+    font-size: 2.5rem !important;
+}
+h6 {
+    font-size: 24px !important;
+    font-weight: 400 !important;
+}
+p {
+    color: #00000099;
+}
+.btn {
+    border-radius: 0 !important;
+}
+li {
+    list-style: none;
+}
+/* 自訂 */
+.Lato {
+    font-family: 'Lato', sans-serif;
+}
+.Merriweather {
+    font-family: 'Merriweather', serif;
+}
+img {
+    object-fit: cover;
+}
+.btn-more {
+    padding: 16px 51px;
+}
+.bg-graylight {
+    background: #F1F5F6;
+}
+
+/* HEADER */
+.header {
+    height: 96px;
+    border-bottom: 1px solid #121212;
+}
+
+/* BANNER */
+.banner-content {
+    height: 984px;
+}
+.bg-img1 {
+    background: url('./images/row1.jpg')center center no-repeat;
+    background-size: cover;
+    height: 864px;
+}
+.btn-arrow {
+    height: 120px;
+}
+.btn-square {
+    width: 120px;
+    height: 120px;
+}
+
+/* MANY */
+.bg-img2 {
+    background: url('./images/row2.jpg')center center no-repeat;
+    background-size: cover;
+    height: 960px;
+}
+.bg-img3 {
+    background: url('./images/row3.jpg')center center no-repeat;
+    background-size: cover;
+    height: 960px;
+}
+.many-content {
+    padding: 66px 96px 192px 135px;
+}
+.performance-content {
+    padding: 66px 135px 192px 96px;
+}
+/* 統一中間的按鈕 */
+.center-btn {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: #fff !important;
+}
+.center-btn:hover {
+    background-color: #343a40 !important;
+}
+
+/* rush talk */
+.rush-talk {
+    background: url('./images/rush.jpg')center center no-repeat;
+    background-size: cover;
+    padding-top: 424px;
+    padding-bottom: 71px;
+}
+
+/* articile */
+.card {
+    border: none !important;
+}
+.card img {
+    height: 600px;
+}
